@@ -22,7 +22,7 @@ pip install -r requirements.txt
 
 2. 設定環境變數：
    - `DISCORD_TOKEN`：你的Discord機器人Token
-   - `API_KEY`：你的Make.com API金鑰 (X7kP9mN3vL2qR5tY8wJ4hB6gF0dC1aE2uI9oT3rM5nV7xZ)
+   - `API_KEY`：你的Make.com API金鑰 
 
 3. 確保Make.com webhook已正確設定並可接收請求 (請參考 `webhook_format.md`)
 
