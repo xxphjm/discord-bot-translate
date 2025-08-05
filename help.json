@@ -1,0 +1,14 @@
+ {
+    "korean": {
+        "title": "**🇰🇷 韓文 (Korean):**",
+        "content": "**디스코드 번역 봇**\n한국어, 베트남어, 중국어 메시지의 자동 번역\n\n**자동 번역**\n직접 메시지를 보내면 봇이 언어를 감지하고 번역합니다.\n\n**수동 번역**\n`!translate <언어코드> <텍스트>`\n예시: `!translate ko 你好`\n\n**지원 언어 보기**\n`!languages`\n\n**메이크.ai 연결 테스트**\n`!test_make`"
+    },
+    "vietnamese": {
+        "title": "**🇻🇳 越南語 (Vietnamese):**",
+        "content": "**Bot Dịch Discord**\nDịch tự động cho tin nhắn tiếng Hàn, tiếng Việt và tiếng Trung\n\n**Dịch tự động**\nGửi tin nhắn trực tiếp, bot sẽ phát hiện ngôn ngữ và dịch cho bạn.\n\n**Dịch thủ công**\n`!translate <language_code> <text>`\nVí dụ: `!translate ko 你好`\n\n**Xem ngôn ngữ được hỗ trợ**\n`!languages`\n\n**Kiểm tra kết nối Make.ai**\n`!test_make`"
+    },
+    "chinese": {
+        "title": "**🇹🇼 繁體中文 (Traditional Chinese):**",
+        "content": "**Discord 翻譯機器人**\n韓文、越文及中文訊息的自動翻譯\n\n**自動翻譯**\n直接發送訊息，機器人會偵測語言並進行翻譯。\n\n**手動翻譯**\n`!translate <language_code> <text>`\n範例：`!translate ko 你好`\n\n**查看支援語言**\n`!languages`\n\n**測試 Make.ai 連接**\n`!test_make`"
+    }
+        }
