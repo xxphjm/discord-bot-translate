@@ -5,7 +5,7 @@ import re
 import pandas as pd
 
 TOKEN = os.environ.get("DISCORD_TOKEN", "NA")
-WEBHOOK_URL = "https://hook.eu2.make.com/woprpcgkuw7degky8vovtmz1tdznwtf0"
+WEBHOOK_URL = os.environ.get("WEBHOOK_URL", "NA")
 API_KEY = os.environ.get("WEBHOOK_API_KEY", "NA")
 
 SUPPORTED_LANGUAGES = {
